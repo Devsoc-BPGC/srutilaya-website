@@ -1,0 +1,38 @@
+.Twopeople{
+    padding-left: 4rem;
+    padding-right: 4rem;
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.Twopeople img{
+border: 15px solid #900C3F ;
+border-radius: 2rem;
+max-width: 100%;
+}
+
+.Twopeople p{
+    font-family: 'Paytone One', sans-serif;
+    color: white;
+   font-size: 1.5rem;
+   line-height: 2rem;
+    text-align: centre;
+}
+
+@media screen and (max-device-width: 1200px) {
+   .Twopeople{
+    flex-direction: column;
+    align-items: center;
+   }
+   .Twopeople img{
+        align-self: center;
+
+   }
+   .Twopeople p{
+    align-self: center;
+   }
+
+}

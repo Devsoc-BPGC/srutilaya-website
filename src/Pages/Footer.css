@@ -1,0 +1,23 @@
+.Footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: center;
+    padding:2rem 2rem;
+}
+
+.Footer img{
+    align-self: flex-start;
+}
+
+.Footer h2{
+    margin-bottom: 0.5rem;
+}
+
+
+@media screen and (max-device-width: 1200px) {
+    .Footer{
+        flex-direction: column;
+        align-items: center;
+    }
+ }

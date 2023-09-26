@@ -1,0 +1,32 @@
+.Highlights{
+    margin-top: 5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.years-img{
+    width: 80%;
+    margin-top: 3rem;
+    filter: brightness(40%);
+}
+
+.years-img:hover{
+    filter: brightness(100%);
+}
+
+.centretext{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Paytone One', sans-serif;
+    font-size: 3rem;
+  }
+
+.img-container{
+    position: relative;
+    text-align: center;
+    color: white;  
+}

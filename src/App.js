@@ -1,23 +1,24 @@
-import logo from './logo.svg';
-import './App.css';
 
+import './App.css';
+import Hero from './Pages/Hero'
+import Aboutus from './Pages/Aboutus'
+import Twopeople from './Pages/Twopeople'
+import Artists from './Pages/Artists'
+import Highlights from './Pages/Highlights';
+import AnotherAbout from './Pages/AnotherAbout';
+import YoutubeEmbed from './Pages/EmbedVideo';
+import Footer from './Pages/Footer';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Hero />
+      <Aboutus />
+      <Twopeople />
+      <Artists />
+      <Highlights />
+      <AnotherAbout />
+      <YoutubeEmbed embedId="BY7dTK9v9FQ" />
+      <Footer />
     </div>
   );
 }
