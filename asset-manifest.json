@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/srutilaya-website/static/css/main.dee5fe23.css",
+    "main.js": "/srutilaya-website/static/js/main.eb463dbf.js",
+    "static/js/787.086e7ce7.chunk.js": "/srutilaya-website/static/js/787.086e7ce7.chunk.js",
+    "static/media/Background.png": "/srutilaya-website/static/media/Background.2bcc098efacbfc58c47a.png",
+    "static/media/2022.png": "/srutilaya-website/static/media/2022.28354271bb937cf4869a.png",
+    "static/media/2019.png": "/srutilaya-website/static/media/2019.428482c4067d7ffaaef8.png",
+    "static/media/2017.png": "/srutilaya-website/static/media/2017.0390c4f7e68ff83cc61c.png",
+    "static/media/2018.png": "/srutilaya-website/static/media/2018.ef275a1a311610a44fcd.png",
+    "static/media/image 10.png": "/srutilaya-website/static/media/image 10.7fe1711fd84dbbb28bbe.png",
+    "static/media/Nandini-Shankar_e.png": "/srutilaya-website/static/media/Nandini-Shankar_e.238036975ecb694d2761.png",
+    "static/media/Rangolil.png": "/srutilaya-website/static/media/Rangolil.ebcc7ab6ec529b3442ee.png",
+    "static/media/image 9.png": "/srutilaya-website/static/media/image 9.b17034799983c3fd7016.png",
+    "static/media/sursangamlogo.png": "/srutilaya-website/static/media/sursangamlogo.7feadc3748de05066462.png",
+    "static/media/Screenshot_2023-09-23_at_1.16.png": "/srutilaya-website/static/media/Screenshot_2023-09-23_at_1.16.b939340df913906eadeb.png",
+    "static/media/aboutus.png": "/srutilaya-website/static/media/aboutus.1abcc1121a552cceac62.png",
+    "static/media/cycle.png": "/srutilaya-website/static/media/cycle.1b8317b6ce5a102f9ac2.png",
+    "static/media/srutilayalogo.png": "/srutilaya-website/static/media/srutilayalogo.20721f07e74d0d0c3d51.png",
+    "static/media/lights.png": "/srutilaya-website/static/media/lights.fb80300ea6b6338471fe.png",
+    "static/media/polymer.png": "/srutilaya-website/static/media/polymer.0a9f5305d01ca53421c0.png",
+    "static/media/high.png": "/srutilaya-website/static/media/high.75050a5841c4735fb0d2.png",
+    "index.html": "/srutilaya-website/index.html",
+    "main.dee5fe23.css.map": "/srutilaya-website/static/css/main.dee5fe23.css.map",
+    "main.eb463dbf.js.map": "/srutilaya-website/static/js/main.eb463dbf.js.map",
+    "787.086e7ce7.chunk.js.map": "/srutilaya-website/static/js/787.086e7ce7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dee5fe23.css",
+    "static/js/main.eb463dbf.js"
+  ]
+}
